@@ -1,0 +1,8 @@
+<wpml-config>
+	<admin-texts>
+		<key name="wc_tab_manager_default_layout">
+			<key name="*"/>
+		</key>
+	</admin_texts>
+</wpml-config>
+

@@ -1,0 +1,20 @@
+/*
+Theme Name: FDBS Child Theme 
+Theme URI: http://fatguymedia.com
+Description: FDBS Child Theme
+Author:fatguymedia
+Author URI: http://www.fatguymedia.com
+Template: FDBS
+Version: 1.0
+*/
+/* =Theme customization starts here
+------------------------------------------------------- */
+@import url(../FDBS/style.css);
+
+.footer_widget.widget a { color: #FFF !important; }
+.footer_widget.widget a:hover { color: #000 !important;}
+
+h3 { border-bottom: 2px solid; color: #1B75BB; }
+.white {color: #FFF !important;}
+
+.main-navigation > ul > li { font-size: 18px !important; margin-right: 40px !important; }
